@@ -1,3 +1,5 @@
 # LibLab Take-Home Project - Frontend
 
-Please modify this readme file to specify how to install, use and test the API.
+Run the following command to start the project locally
+
+npm install && npm run dev
