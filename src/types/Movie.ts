@@ -5,6 +5,6 @@ export interface Movie {
   boxOfficeRevenueInMillions: number;
   budgetInMillions: number;
   name: string;
-  rottenTomatoesScore: 94;
-  runtimeInMinutes: 558;
+  rottenTomatoesScore: number;
+  runtimeInMinutes: number;
 }
