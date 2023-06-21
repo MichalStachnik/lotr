@@ -57,7 +57,6 @@ const Quotes = () => {
               boxShadow: 2,
               border: 2,
               borderColor: 'primary.light',
-              color: 'white',
               '& .MuiDataGrid-cell:hover': {
                 color: 'primary.main',
               },
